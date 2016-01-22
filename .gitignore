@@ -11,7 +11,7 @@
 .springBeans
 .checkstyle
 .settings/
-out/
+com/
 # File-based project format
 *.ipr
 *.iml
